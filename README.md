@@ -19,5 +19,9 @@ Activate containers to be exported. Number of exported clipboards will be displa
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Documentation
+
+[CwAPI3D Documentation](https://cwapi3d.readthedocs.io/)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
